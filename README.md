@@ -94,7 +94,3 @@ The demo includes sample egocentric videos, hand pose annotations, and language 
 
 For data collection inquiries, custom scenario requests, or partnership discussions — reach out via our website or email.
 
-## License
-
-Demo dataset: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-Commercial data collection is available under custom licensing agreements.
