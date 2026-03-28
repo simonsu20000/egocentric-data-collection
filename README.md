@@ -72,8 +72,8 @@ Our collection protocols are aligned with leading embodied AI benchmarks:
 | Tier | Volume | Price Range |
 |---|---|---|
 | Standard | Up to 10K hrs/month | $20–100/hr |
-| Scale | 10K–50K hrs/month | $10–50/hr |
-| Enterprise | 50K–100K hrs/month | $5.50–30/hr |
+| Scale | 10K–50K hrs/month | $10–100/hr |
+| Enterprise | 50K–100K hrs/month | $5.50–100/hr |
 
 *Pricing depends on annotation complexity, scenario requirements, and hardware configuration. Deliveries begin May 2026.*
 
