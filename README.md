@@ -85,23 +85,11 @@ Evaluate our data quality with the published demo:
 
 The demo includes sample egocentric videos, hand pose annotations, and language labels from a subset of our scenarios.
 
-## Getting Started
-
-```bash
-# Load the demo dataset
-pip install datasets
-
-python -c "
-from datasets import load_dataset
-ds = load_dataset('obaydata/egocentric-dexterous-manipulation-demo')
-print(ds)
-"
-```
 
 ## Contact
 
 - **Website:** [obaydata.com](https://obaydata.com)
-- **Email:** contact@obaydata.com
+- **Email:** simon.su@obaydata.com
 - **Company:** New Oriental Bay Limited (香港新东湾有限公司)
 
 For data collection inquiries, custom scenario requests, or partnership discussions — reach out via our website or email.
